@@ -1,0 +1,12 @@
+creator: INTERPOL CNTL
+currency: BTC
+description: Fake Tags for INTERPLOL training
+lastmod: 2019-10-25
+source: https://www.interpol.int
+tags:
+- address: 1M284Zzmj4tQNLZc7DPty6uPkaAxmroSLJ
+  label: Bitcoinpostage.com
+  category: Services/others
+- address: 1GYwiULuKg3TPMRnGuEXVKewNNNKRQsV7y
+  label: Coinbase Visa Card Services
+  category: Walletprovider
