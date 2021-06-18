@@ -1,12 +1,22 @@
 creator: INTERPOL CNTL
 description: Services positively identified by INTERPOL CNTL
-lastmod: 2019-10-24
+lastmod: 2021-06-18
 source: https://www.interpol.int
 tags:
 - address: 3QyUSB4eRYePHcvpS6k6YDMBUDGXRSSMPc
   label: bitcoinbon.at - Unique sending out address
   currency: BTC
   category: ATM
+- address: 3P5YLy91WzjCsgnwZNPe4a8CRGGznDefiG
+  label: CoinATMRadar - Tipping address
+  currency: BTC
+  category: ATM
+  source: https://coinatmradar.com
+  - address: bitcoincash:qqs477n9kxxn7tudlz7frx7dcxn6qnewqyzfkqaf
+  label: CoinATMRadar - Tipping address
+  currency: BCH
+  category: ATM
+  source: https://coinatmradar.com
 - address: 3L48QW2MVd49fj997S6J5NBm7MrsvhpEmg
   label: sideshift.ai
   currency: BTC
