@@ -53,3 +53,15 @@ tags:
   label: sideshift.ai - Unique sending out address
   category: Mixingservice
   currency: ETH
+- address: 1FyCD8kp9ekiTTgdyhFtZRgzR1QCHV4i84
+  label: Ransomware Groupe Site (http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion)
+  category: Index
+  currency: BTC
+- address: 1FyCD8kp9ekiTTgdyhFtZRgzR1QCHV4i84
+  label: Ransomware Groupe Site (http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion)
+  category: Index
+  currency: BCH
+- address: 48FgeW4fUpyjPDGxJdHaA441F5c9szYtLSVWbNv8T3ZXe9ZN3iLUSSdASof2vDQqdbgRYom9aMeQMWPQkr3SPZUJE2uM8fc
+  label: Ransomware Groupe Site (http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion)
+  category: Index
+  currency: XMR
